@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gifhttps://komarev.com/ghpvc/?username=naveedkhanpathan&label=Profile%20views&color=0e75b6&style=flat" alt="naveedkhanpathan" /> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **HTML CSS React**
 
